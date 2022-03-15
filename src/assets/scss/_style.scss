@@ -1,0 +1,96 @@
+.body{
+  font-family: $ff;
+  margin: 0 auto;
+  color: $ct;
+  width: $ws;
+  padding-left: 130px;
+  padding-right: 130px;
+  background-color: #E3EEF8;
+  font-size: $fs;
+
+}
+.nav-padding{
+  padding-top: 39px;
+}
+.header-logo{
+  width: 113px;
+  height: 29px;
+}
+.nav-style{
+  text-decoration: none;
+  color: $ct;
+  letter-spacing: -0.4px;
+  line-height: 19px;
+  font-weight: bold;
+  padding-top: 7px;
+}
+.nav-button{
+  font-weight: bold;
+  text-align: center;
+  color: #258AFF;
+  letter-spacing: -1px;
+  border: 2px solid #258AFF;
+  border-radius: 3px;
+  background-color: #E3EEF8;
+  width: 137px;
+  height: 40px;
+}
+.sec-hero{
+  padding-top: 178px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.pref-title{
+  font-size: 15px;
+  text-transform: uppercase;
+  line-height: 18px;
+  color: #666666;
+  font-weight: 700;
+}
+.title{
+  font-size: 70px;
+  letter-spacing: -4px;
+  font-weight: 700;
+  line-height: 70px;
+  text-align: center;
+}
+.padding-title-sec-h{
+  padding-top: 27px;
+}
+.under-title{
+  color: #666666;
+  font-size: 21px;
+  line-height: 36px;
+  letter-spacing: -0,4px;
+  text-align: center;
+}
+.padding-under-title-sec-h{
+  padding-top: 19px;
+}
+.padding-input-sec-h{
+  padding-top: 31px;
+}
+.section-hero-input{
+  border-radius: 3px;
+  width: 275px;
+  height: 60px;
+  border: none;
+}
+::-webkit-input-placeholder{
+  padding: 19px 0 0 24px;
+}
+.sec-hero-button{
+  text-align: center;
+  width: 209px;
+  height: 60px;
+  background-color: #FC593B;
+  color: #FFFFFF;
+  border-radius: 5px;
+  border: none;
+}
+.text-under-i-sec-h{
+  padding-top: 24px;
+  color: #878B90;
+  font-size: 17px;
+}
